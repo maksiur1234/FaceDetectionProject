@@ -1,0 +1,9 @@
+﻿cl : wiersz polecenia  warning D9002: ignorowanie nieznanej opcji „-pthread”
+  Źródło.cpp
+C:\Users\maksi\OneDrive\Pulpit\open\open\Źródło.cpp(92,41): warning C4267: "+=": konwersja z "size_t" do "int", możliwa utrata danych
+  Trwa generowanie kodu
+  0 of 264 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  open.vcxproj -> C:\Users\maksi\OneDrive\Pulpit\open\x64\Release\open.exe
